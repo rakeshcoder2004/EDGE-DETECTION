@@ -74,24 +74,22 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### SOBEL EDGE DETECTOR
-![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/18939221-fee7-4dcd-be1f-c32b03b474e2)
+![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/1f4d76d8-19a9-49f8-839e-526a49e0ba57)
+![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/ea2e12fb-8145-4813-aa7c-672bbcece857)
 
-![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/c4e47702-2268-4500-8f96-e57998ac7706)
-
-![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/8b493aae-4a4d-4b19-990e-1bbabdfa1629)
+![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/b5af1ddc-2f1f-41ac-ac08-1c1442ff9fdc)
 
 
 
 
 ### LAPLACIAN EDGE DETECTOR
-![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/11fb2c3e-9ca6-46d9-900c-1c4f70ee74e4)
+![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/db5db296-1dc5-475b-a4b1-983ebc0b603a)
 
 
 
 
 ### CANNY EDGE DETECTOR
-![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/f14d46a6-c826-4877-8e6f-6194d2a11c98)
-
+![image](https://github.com/rakeshcoder2004/EDGE-DETECTION/assets/121490890/08f50ab3-0d7e-4372-abbf-285accc0c72e)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
